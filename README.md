@@ -22,7 +22,7 @@ This project demonstrates a simple Android application with navigation between t
 ![Main Screen](screenshots/main.png)
 
 ### Read More Screen
-![Read More Screen](screenshots/Läs mer.png)
+![Read More Screen](screenshots/Readmore.png)
 
 ---
 
