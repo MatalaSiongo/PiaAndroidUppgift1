@@ -1,15 +1,40 @@
 # PiaAndroidUppgift1
 
-Android assignment built with Kotlin and Jetpack Compose.
+Android assignment built using **Kotlin** and **Jetpack Compose**.
+
+This project demonstrates a simple Android application with navigation between two screens.
+
+---
 
 ## Features
-- Custom layout based on lecturer example
-- Three numbered boxes
-- "Läs mer" navigation to second screen
-- "Tillbaka" returns to main screen
 
-## Built with
+- Built with **Jetpack Compose**
+- Simple UI layout
+- Navigation between screens
+- Android Emulator compatible
+- Clean project structure
+
+---
+
+## Screenshots
+
+### Main Screen
+![Main Screen](screenshots/main.png)
+
+### Read More Screen
+![Read More Screen](screenshots/lasmer.png)
+
+---
+
+## Technologies Used
+
 - Kotlin
 - Jetpack Compose
-- Navigation Compose
 - Android Studio
+- Navigation Compose
+
+---
+
+## How to Run the Project
+
+1. Clone the repository
