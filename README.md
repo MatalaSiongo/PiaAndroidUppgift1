@@ -38,3 +38,15 @@ This project demonstrates a simple Android application with navigation between t
 ## How to Run the Project
 
 1. Clone the repository
+
+```
+git clone https://github.com/MatalaSiongo/PiaAndroidUppgift1.git
+```
+
+2. Open the project in **Android Studio**
+
+3. Wait for **Gradle Sync** to finish
+
+4. Start an **Android Emulator**
+
+5. Click **Run ▶** to launch the application
